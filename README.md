@@ -15,14 +15,14 @@
 </div>
   
   ---
-  
+ :telescope: :zap: :mailbox:
 ### :woman_technologist: About Me :
 I am a Full Stack Developer from India
-- :telescope: I work on creating frontend and backend for building web applications.
+-  I work on creating frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Leetcode and read novels :books:.
+-  In my free time, I solve problems on Leetcode and read novels :books:.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esha-verma8302/)
+-  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esha-verma8302/)
 
 ---
 
