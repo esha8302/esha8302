@@ -15,8 +15,8 @@
 </div>
   
   ---
- :telescope: :zap: :mailbox:
-### :woman_technologist: About Me :
+<!--  :telescope: :zap: :mailbox: :woman_technologist: -->
+###  About Me :
 I am a Full Stack Developer from India
 -  I work on creating frontend and backend for building web applications.
 
