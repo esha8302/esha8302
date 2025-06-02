@@ -22,7 +22,7 @@ I am a Full Stack Developer from India
 
 -  In my free time, I solve problems on Leetcode <SQL is my favorite section :)>
 
-- Thnigs I love - Books :books:, stories, wind in my hair :🍃:
+- Thnigs I love - Books 📖, stories, wind in my hair 🍃
 
 -  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshav/)
 
