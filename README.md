@@ -18,11 +18,13 @@
 <!--  :telescope: :zap: :mailbox: :woman_technologist: -->
 ###  About Me :
 I am a Full Stack Developer from India
--  I work on creating frontend and backend for building web applications.
+-  Experienced in creating full stack applications using Python(Django, Flask, Fast API) and ReactJS.
 
--  In my free time, I solve problems on Leetcode and read novels :books:.
+-  In my free time, I solve problems on Leetcode <SQL is my favorite section :)>
 
--  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esha-verma8302/)
+- Thnigs I love - Books :books:, stories, wind in my hair :🍃:
+
+-  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshav/)
 
 ---
 
